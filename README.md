@@ -1,2 +1,2 @@
 # programs
-author - Rajesh Ranjan
+author - Rajesh Ranjan yadav
